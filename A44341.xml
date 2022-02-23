@@ -1,0 +1,729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Righteousness rained from heaven, or, A serious and seasonable discourse exciting all to an earnest enquiry after and continued waiting for the effusions of the spirit unto a communication and increase of righteousness, that faith, holiness, and obedience may yet abound among us, and the wilderness become a fruitful field / as it was delivered in a sermon preached at Harford Connecticut in New-England, May 10, 1677, being the day of election there by Samuel Hooker.</title>
+            <author>Hooker, Samuel, 1635?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44341</idno>
+            <idno type="STC">Wing H2638</idno>
+            <idno type="STC">ESTC W1119</idno>
+            <idno type="EEBO-CITATION">09547087</idno>
+            <idno type="OCLC">ocm 09547087</idno>
+            <idno type="VID">43590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43590)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Righteousness rained from heaven, or, A serious and seasonable discourse exciting all to an earnest enquiry after and continued waiting for the effusions of the spirit unto a communication and increase of righteousness, that faith, holiness, and obedience may yet abound among us, and the wilderness become a fruitful field / as it was delivered in a sermon preached at Harford Connecticut in New-England, May 10, 1677, being the day of election there by Samuel Hooker.</title>
+                  <author>Hooker, Samuel, 1635?-1697.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green,</publisher>
+                  <pubPlace>Cambridge [Mass.] :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Hosea X, 12 --  Sermons.</term>
+               <term>Election sermons --  Connecticut.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43590:1"/>
+            <pb facs="tcp:43590:1" rendition="simple:additions"/>
+            <p>
+               <hi>Righteouſneſs Rained from Heaven,</hi> OR A Serious and Seaſonable DISCOURSE Exciting all to an earneſt enquiry after, and continued waiting for the effuſions of the Spirit, unto a communication and increaſe of Righteouſneſs: That Faith, Holineſs and Obedience may yet abound among us, and the Wil<g ref="char:EOLhyphen"/>derneſs become a fruitful field, <hi>As it was Delivered in a</hi> SERMON <hi>Preached at Harford on Connecticut in New-England, May</hi> 10. 1677. <hi>Being the Day of ELECTION there.</hi>
+            </p>
+            <p>By Mr. <hi>Samuel Hooker,</hi> Paſtor of the Church of Chriſt in <hi>Farmington.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſai. 44. 3, 4.</hi>
+               </bibl>
+               <p>For I will pour water upon him that is thirſty, and floods upon the dry ground: I will pour my ſpirit upon thy ſeed and my bleſſing upon thine off-ſpring. And they ſhall ſpring up as among the graſs, as willows by the water-courſes.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal 80.19.</hi>
+               </bibl>
+               <p>Turn us again O Lord God of Hoſts, and cauſe thy face to ſhine <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall be ſaved.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Lam. 5.21.</hi>
+               </bibl>
+               <p>Turn <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unto thee O Lord and we ſhall be turned, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our days a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of old.</p>
+            </q>
+            <p>
+               <hi>Cambridge:</hi> Printed by <hi>Samuel Green.</hi> 1677.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:43590:2"/>
+            <pb facs="tcp:43590:2"/>
+            <opener>
+               <salute>Chriſtian Reader;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is an Obſervation certain and ſolemn, that <hi>Iſraels</hi> Holy one is none in a peculiar manner to bare witneſs againſt the wan<g ref="char:EOLhyphen"/>tonneſs and ſins of his Covenant people, that have been ſingu<g ref="char:EOLhyphen"/>larly favoured and priviledged by him, <hi>Amos 3.2. You only have I known of all the Families of the Earth, therefore I will puniſh you for all your iniquities:</hi> The diſobedient, regardleſs behaviour of his Sons and Daughters carrieth an exceſs of provocation, <hi>Deut. 32.19. When the Lord ſaw it he abhorred them, becauſe of the provok<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng of his Sons and of his Daughters:</hi> In what awful and tremend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us manner the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds anger hath been of late in ſpecial, made to appear againſt his wilderneſs people, is not ſoon or eaſily to be forgotten: ſuch an Adnerſary (<hi>the worſt of the Heathen, Ezek. 7.24. bruitiſh men, and skilful to de<g ref="char:EOLhyphen"/>ſtroy,</hi> Ezek. 21.31.) ſtirred up againſt u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the ſword gone through the land, and thereby wasting and terror, de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation and death, carried up and down: how have the mighty fallen, blood and flames abounded unto a fearful conſumption in the midſt of the earth? The Inhabitants of ſo many Villages made to ceaſe even in <hi>Iſrael,</hi> and ſome Candleſticks alſo re<g ref="char:EOLhyphen"/>moved out of their places. Alas for the vineyard that his own right hand hath planted, how hath he taken away the hedges thereof, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at the Boar out of the wood ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld waſte, and the wilde Beaſts of the F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rreſt devour it: w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been delivered to the Sword, Cap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivity and Spoil: That the Lord is righteous in all his wayes, and holy in all his works, is a truth alwayes to be acknowledged, however terribld he is in diſpenſations towards the ſons of men. Sins more then enough have been found with us to deſerve all our ſufferings, that we ſin no more least a worſe thing come to us is the duty incumbent, and earnestly now called for: however ready the Lord our God (whoſe compaſſions fail not) hath ſhewn himſelf, <hi>in wrath to re<g ref="char:EOLhyphen"/>member mercy,</hi> and repent him of the evil, yet will our impeni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ency (if ſtill continu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d) without fail make him weary of repenting: Sin not forſa<g ref="char:EOLhyphen"/>ken, we may expect, will be followed with a renewal and increaſe of judge<g ref="char:EOLhyphen"/>ment, for all this his anger is not turned away, but his hand ſtretched out ſtill, <hi>for the people tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neth not to him that ſmiteth them,</hi> &amp;c. Iſai. 9.12, 13. He hath further, ſorer puniſhments to inflict on a people, that by a progreſs in ſin carry on the provocation, <hi>Lev 26.16.</hi> &amp;c. for certain our ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rings will be greatned if our ſins be not leſſened, the former will riſe un<g ref="char:EOLhyphen"/>leſs the latter fall: nor will any thing herein ſuffice, ſhort of a through work
+<pb facs="tcp:43590:3"/>ſhew will not <hi>(nor is it meet they ſhould)</hi> be accepted without the inſide Spirit and life of converſion. It is laid to <hi>Judahs</hi> charge, as no little evil, <hi>that ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> turned not with her whole heart, but feignedly,</hi> Jer. 3.10 when heart circumciſion becomes generally wanting among a profeſſing people, <hi>they may look for woe, Jer.</hi> 9.25, 26. And yet nothing leſs then an almighty power can perform the thing that is needful for us herein: means have not been wanting <hi>(what could have been done more)</hi> word and work, Law and Goſpel, Mercies and Judgements abundantly im<g ref="char:EOLhyphen"/>proved, to how little purpoſe and prevalenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, with many, very many, the obſerving eye may lawfully diſcover: our help and hope is in heav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; heart-ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng thither for his ſalvation is eminently the work before us: and therein <hi>Solomons</hi> great request in behalf of the congregation of <hi>Iſrael</hi> is exceed<g ref="char:EOLhyphen"/>ingly ſuited to our condition, <hi>1 King. 8.57, 58: The Lord our God be with us, as he was with our Fathers, let him not leave us nor forſake u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e may incline our hearts unto him, to walk in all his wayes, and to keep his commandments and his ſtatutes, and his judgements which he commanded our Fathers:</hi> protection all would have but converſion we muſt want, may this be <hi>New-Englands</hi> mercy we ſhall live: the heart-inclining preſence of the God of our Fathers g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anted and continued to us: his Spirit poured out on the ſeed of his people, and his bleſſing upon their off-ſpring, that as we are <hi>(through grace)</hi> the ſeed of the bleſſed of the Lord, we may alſo be a ſeed which the Lord hath bleſſed; This is of all the mer<g ref="char:EOLhyphen"/>cies we want, the moſt needful weighty and deſirable, and accordingly with utmoſt care, fear and faithfulneſs to be groaned after and waited for.</p>
+            <p>
+               <hi>To awaken, excite and encourage to this ſo neceſſary a work, is the deſigne of the Treatiſe following: the ſolemnity of the truth it ſelf therein inſiſted on, our concernment in it, with its peculiar ſeaſona<g ref="char:EOLhyphen"/>bleneſs give it abundant commendation. The judicious Author was by a compaſſionate hand towards us, pointed to this Subject, and with an eminent aſſiſtance (ſome circumſtances attending him, in ſpecial conſidered) carried out in the handling of it, to the great ſatisfaction of them that heard him That it may be not acceptable only but ſanctified and made effectually ſucceſsful to the attainment of the end therein aimed at, by a bleſſing from heaven, powerfully accompanying it to the minds and hearts of them that reade it (as it is here, after ſome conſiderable throws of difficulty, delivered to a more publick view) is the hearts deſire and prayer of him, who is</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Thine ſincerely in our bleſſed Saviour,</hi> John Whiting.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43590:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>HOSEA 10.12.</hi>
+               </bibl>
+               <q>
+                  <p>For it is time to ſeek Jehovah until he come and rain righteouſneſs upon you.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the Words foregoing, the Prophet giveth <hi>Iſrael</hi> a diſcovery of the uncomfortable tearms on which they ſtood at this time with God: they had been diſobe<g ref="char:EOLhyphen"/>dient, and undutiful in their behaviour, as appeareth in the 1, 2, 3, 4, and 5th verſes he was grieved and angry with them, as in the tenth <hi>[It is in my heart to chaſtiſe them.]</hi>
+            </p>
+            <p>The way by which he was minded to do this was the Inrode of the Heathen <hi>[And the People ſhall be gathered against them.]</hi> The God of <hi>Iſrael</hi> is the Lord of Hoſts. He doth according to his will in the Army of Heaven, and among the Inhabitants of the Earth. He hiſſeth for the flies that is in the utmoſt parts of the Rivers of Egypt, and for the Bee that is in the land of <hi>Aſſyria,</hi> and maketh them to reſt in the place where he appointeth, <hi>Iſai. 7.18, 19.</hi> it became <hi>Iſrael</hi> therefore when they ſaw the Nations gathering againſt them, to eye God who in his anger had muſter<g ref="char:EOLhyphen"/>ed and given them a charge ſo to do. The <hi>Aſſyrian</hi> is the rod of his anger, and the ſtaffe in their hand is his indignation, they move not till he ſendeth, they make no ſpoile until he giveth the word of command, <hi>2 King. 24.2, 3. And the Lord ſent against him bands of the</hi> Caldeer, <hi>and bands of the</hi> Syrians, <hi>and bands of the</hi> Moabites, <hi>and bands of the children of</hi> Ammon, <hi>and ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt them againſt</hi> Judah <hi>to deſtroy it.</hi> Surely at the commandment of the Lord came this upon <hi>Judah.</hi>
+            </p>
+            <pb n="2" facs="tcp:43590:4"/>
+            <p>The Prophet addeth <hi>[When they ſhall hinde them in their two furrows]</hi> here Interpreters are variouſly minded: ſome take the words to ſignifie the ground, and ſome, the event of the enſuing War; thoſe that incline to the former, conceive the Prophet to compare the people to untamed Bullocks, impatient of the yoke, and diſuſed to plow, that will not keep the furrow, but turn, now on the right hand, and then on the left; ſo this people, inſtead of going right forward in the way of truth, which is but one halted betwixt two, balked in their obedience, and perverted their way: their heart was divided, as in the ſecond verſe of this chapter, they were crooked in their doings, and fix<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in their frowardneſs, there<g ref="char:EOLhyphen"/>fore God was purpoſed to chaſtiſe them. <hi>vide Zanch. in locum.</hi>
+            </p>
+            <p>Others carry the words to d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>note the iſſue of the War, which was like to be ſad on <hi>Iſraels</hi> part; for though they did unite and binde themſelves with utmoſt reſolu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, to abide in their trenches or furrows, for their own defence. yet a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l in vain, Gods counſel ſhould ſtand, and the Heathen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aving a charge from him would certainly tread them down. So <hi>Calvin,</hi> Their Enemies p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evailing againſt them, would enfo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce them to miſerable bondage and ſla<g ref="char:EOLhyphen"/>very, mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng them drudge like Oxen at plough. So <hi>Mercer.</hi> But why will God do thus by his people? It is anſwered <hi>[Ephraim is a Heifer that is taught, and loveth to tread out the Corn]</hi> In thoſe times they were wont to tread out the Corn with the tramp<g ref="char:EOLhyphen"/>ling of beaſts: and God had commanded concerning the oxe, while improved in that ſervice, that he ſhould not be muzzled: this was pleaſanter work then plowing: and this <hi>Ephraim</hi> was for, a cheap Religion pleaſed him. They were grown ſenſual, ſluggiſh, remiſs and wanton in their Profeſſion, <hi>1 Kin. 12 26, 27, 28. Jeroboam ſaid in his heart, now ſhall the kingdome return to the houſe of David, if this people go no to do ſacrifice in the houſe of the Lord at Jeruſalem: whereupon he took courſel and ſaid unto them, It is too much for you to go up to Jeruſalem, Behold thy Gods O Iſ<g ref="char:EOLhyphen"/>rael.</hi> If they might pick and chuſe among Gods Precepts, toke and leave as they lifted, well and good: but to be at ſo much pains as a converſation commenſurate to all Gods commands required they could not bear. Thus <hi>Pharaoh The Lord be ſo with you as I will let you go,</hi> Exod. 10.10. I will order the matter, and let Jeho<g ref="char:EOLhyphen"/>vah comply and take up with what I ſhall ſee cauſe to appoint; But God reſiſteth the proud.</p>
+            <pb n="3" facs="tcp:43590:4"/>
+            <p>It followeth therefore <hi>[But I paſſed over upon her fair neck,]</hi> God had dealt bountifully with <hi>Iſrael,</hi> made him ride on the high places of the Earth, that he might eat the increaſe of the field, and he was grown fat, <hi>Deut. 32.13, 14.</hi> but they abuſed his kind<g ref="char:EOLhyphen"/>neſs, waxed proud and unruly, and would ſerve no further then would ſerve their own turn, making their own pleaſure not Gods the rule of their obedience: wherefore God had already paſſed, over their neck, laid afflictions upon them, and had made their glory then, and the fatneſs of their fleſh lean, if thereby they might have been tamed and reduced unto a thorough ſubjection to his will: but this did not do; wherefore he addeth <hi>[I will make Ephraim to ride]</hi> inaſmuch as leſſer chaſtiſements did not avail, God threatn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th to deal more roughly with them, with a ſtronger hand, violently to break in upon them, and fend them in<g ref="char:EOLhyphen"/>to Captivity. So the word <hi>[Ride]</hi> ſometimes importeth, <hi>Job 30.21, 22. With thy ſtrong hand thou oppoſeſt thy ſelf againſt me, thou l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fteſt me up to the wind, thou cauſeſt me to ride, and diſſolveſt my ſubſtance.</hi> Judah ſhall plough, and Jacob ſhall break his clods the reſt who went not into captivity ſhould ſee a great deal of hardſhip and abaſement, though not ſo much as thoſe that rode and were ſcattered among t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e nations.</p>
+            <p>Upon this in the 12th verſe, He exhorteth them unto reforma<g ref="char:EOLhyphen"/>tion and amendment of their wayes <hi>[Sowe to your ſelves in righte<g ref="char:EOLhyphen"/>ouſneſs]</hi> that their reformation might be ſound, and ſuch as would hold, he counſelleth to bottome it on repentance, <hi>[Break up your fallow ground]</hi> whatever men may pretend at preſent, or promiſe for the future, unleſs they repent, and ſorrow after a godly ſort for ſin paſt, their reformation proveth like ſeed ſcat<g ref="char:EOLhyphen"/>tered on Land that never was broken up, which cometh to no<g ref="char:EOLhyphen"/>thing in the iſſue.</p>
+            <p>
+               <hi>Reap in mercy]</hi> Though their Repentance and Reformation could merit nothing: yet if they would ſowe in righteouſneſs, and break up their fallow ground. Mourn aright for ſins paſt thorough the forbearance of God, and amend their doings: then they ſhould reap a bleſſing and inherit proſperity, through the benignity and kindneſs of God: denoting that they muſt be be<g ref="char:EOLhyphen"/>holding to mercy when they had done all they could, <hi>Epheſ.</hi> 2.8. By Grace ye are ſaved thorough Faith, and that not of your ſelves, it is the gift of God. So we are come to the Text.</p>
+            <pb n="4" facs="tcp:43590:5"/>
+            <p>
+               <hi>For it is time to ſeek the Lord till he come and rain righteouſneſs upon you.</hi> In which words the Prophet amplifieth on his former Exhortation, partly directing in it, and partly exhorting to it.</p>
+            <list>
+               <item>1. He directeth in it, <hi>Seek ye Jehovah;</hi> ſet not about this great work of Reformation in your own ſtrength. Take God along with you, ingage him in it; your plowing and ſowing will ſig<g ref="char:EOLhyphen"/>nifie nothing unleſs he rain down a bleſſing on your endeavours.</item>
+               <item>2. He exciteth to it, and encourageth in it. It is true, that the way of man is not in himſelf, neither is it in him that walketh to direct his own ſteps. You can do nothing without him, but he can do all for you. Although judgement riſeth not out of the duſt nor doth righteouſneſs ſpring out of the ground, yet he that ri<g ref="char:EOLhyphen"/>deth in his excellency on the sky can rain it down, <hi>Iſai. 45.8. Drop down ye heavens from above, and let the skies pour down righ<g ref="char:EOLhyphen"/>teouſneſs, let the Earth open, and let them bring forth ſalvation, and let righteouſneſs ſpring up together, I the Lord create it.</hi> He can by the power of his ſpirit mightily change; when that is poured out from on high, <hi>Judgement ſhall dwell in the wilderneſs, and righte<g ref="char:EOLhyphen"/>ouſneſs remain in the fruitful field,</hi> Iſai. 32.15, 16. Therefore in the ſenſe of our own nothingneſs, and believing Gods power and grace: it becometh us ſuitably to apply our ſelves unto him. So much for the ſcope of the words: More particularly for their meaning.</item>
+            </list>
+            <p>
+               <hi>For it is time]</hi> The ſeaſon calleth hard: If the Husband-man loſeth his ſeaſon, he loſeth all, now is your opportunity; you are chaſtened but not deſtroyed, you have a breathing time yet left: two things ſeem to be implyed in it.
+<list>
+                  <item>1. Matter of encourage<g ref="char:EOLhyphen"/>ment, there was yet hope in <hi>Iſrael</hi> concerning this thing, in as much as God was willing to be intreated for their help, therefore let them be encouraged: it was not altogether too late.</item>
+                  <item>2. Mat<g ref="char:EOLhyphen"/>ter of awakening; It was high time to look about them, no allow<g ref="char:EOLhyphen"/>ance left for ſloth or ſecurity: now is the acceptable time, now is the day of ſalvation; <hi>to day if ye will hear his voice harden not your hearts.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>To ſeek Jehovah]</hi> Seeking is the uſe of meet endeavours to finde, <hi>Mat. 7.7. Ask and it ſhall be given you, ſeek and ye ſhall find.</hi> Prov 8 34, 35. <hi>Bleſſed is the man that heareth me, waiting at the posts of my doors, for whoſo findeth me findeth life.</hi> So that when the Text ſaith, <hi>it is time to ſeek the Lord,</hi> the meaning is, that it is
+<pb n="5" facs="tcp:43590:5"/>time to wait on God in the uſe of all ſuitable means until he come] He is the moſt glorious agent, none can do like God, He <hi>[Performeth]</hi> all things for me, <hi>Pſal. 57.2.</hi> you may ſpeak fair, reſolve and promiſe much, when under the dint of ſome ſignal providence, <hi>Ier 2.20.</hi> Thou ſaidſt, I will not tranſgreſs, when up<g ref="char:EOLhyphen"/>on every high hill, and under every green Tree, thou wandereſt, playing the Harlot. Others may wiſh you well ſtrive and la<g ref="char:EOLhyphen"/>bour for your betterment, and yet righteouſneſs not be wrought, <hi>Hoſ. 11.7.</hi> They called them to the moſt high, but none at all would exalt him: but if Jehovah come, he will make work with you, he will do the thing.</p>
+            <p>
+               <hi>Raine]</hi> This implieth, that in Jehovah our righteouſneſs there dwelleth all fulneſs. He hath abundance of righteouſneſs with him, and he can ſhed it forth upon us abundantly, <hi>Tit. 3.5, 6.</hi> ac<g ref="char:EOLhyphen"/>cording to his mercy he ſaved us, by the waſhing of regeneration and renewing of the Holy Ghoſt, which he ſhed on us abundant<g ref="char:EOLhyphen"/>ly, through Jeſus Chriſt our Lord.</p>
+            <p>
+               <hi>Righteouſneſs]</hi> This in Scripture Phraſe ſignifieth variouſly, ſometimes it is put for commutative juſtice, or ſtrict, honeſt dealing, as oppoſed to goodneſs, <hi>Rom. 5.7.</hi> ſcarcely for a righteous man will one die, peradventure, for a good man ſome would even dare to die. Sometimes it importeth conformity to the ſecond Table, eſpecially when joyned with, and yet diſtinguiſhed from holineſs, <hi>Luk. 1.75.</hi> That we might ſerve him without fear in ho<g ref="char:EOLhyphen"/>lineſs and righteouſneſs before him all the dayes of our life. Sometimes it is put more largely, and ſignifieth the ſame with Godlineſs, implying a heart and life evangellically conformable to Gods holy Law, <hi>Luk. 1.6.</hi> and they were both righteous be<g ref="char:EOLhyphen"/>fore Gods, walking in all the Commandments and Ordinances of the Lord blameleſs: Thus it familiarly paſſeth when put in oppo<g ref="char:EOLhyphen"/>ſition to wickedneſs, and iniquity, <hi>Pſal. 45.7. Thou loveſt righ<g ref="char:EOLhyphen"/>teouſneſs, and hateſt wickedneſs, Pſal. 11 5.</hi> The Lord trieth the righteous, but the wicked his ſoul hateth. This ſence ſeemeth to ſuit here, as oppoſed to wickedneſs and iniquity in the words im<g ref="char:EOLhyphen"/>mediately following, <hi>ye have ploughed wickedneſs, ye have reaped iniquity,</hi> ver. 13.</p>
+            <p>
+               <hi>On you]</hi> The poſterity of righteous <hi>Abraham, Iſaac,</hi> and <hi>Ia<g ref="char:EOLhyphen"/>coh,</hi> the Lords portion, the lot of his inheritance, leaſt you dege<g ref="char:EOLhyphen"/>nerate into the plant of a ſtrange vine, and be laid waſt at laſt.</p>
+            <pb n="6" facs="tcp:43590:6"/>
+            <p>The ſeries therefore of the words runneth thus, you have ſinned and God hath afflicted you <hi>[He hath paſſed over your neck]</hi> moreover you are ſtill threatned <hi>[it is in his deſire to chaſtiſe you]</hi> But you are not deſtroyed; he hath not ſtirred up all his anger, you have yet a ſpace to conſider your ſelves and recover your ſtrength: now therefore it is time to ſeek Jehovah; O that the Heavens would now drop down from above, and that the skies would pourdown righteouſneſs: that which you need, and without which the land is deſolate, is the rain of Gods power. The effuſion of his holy ſpirit, to accompany and influence word and ordinances, providences, mercies and afflictions unto righteouſ<g ref="char:EOLhyphen"/>neſs. That you may be a repenting, reformed, religious, holy people. That is,
+<list>
+                  <item>1. That you may caſt out the love of all known ſin, renounce confidence in your own righteouſneſs and ſtrength, and be righ<g ref="char:EOLhyphen"/>teous by faith, having the merits of Chriſts active and paſſive o<g ref="char:EOLhyphen"/>bedience imputed to you, by the efficacy of the infinite grace of God in the new covenant, <hi>Rom. 4.6. Phil. 3.9.</hi>
+                  </item>
+                  <item>2. That you may be inherently righteous, putting off the old man which is corrupt, and put on the new, which is created after God in righteouſneſs and true holineſs, <hi>Eph. 4.24. that the very God of peace may ſanctifie you wholly,</hi> 1 Theſſ. 5 23.</item>
+                  <item>3. That you may be practically righteous, denying all un<g ref="char:EOLhyphen"/>golineſs and worldly luſts, living ſoberly, godly and righteouſly, in this preſent world; purging your ſelves from all filthineſs of fleſh and ſpirit, perfecting holineſs in the fear of God. Theſe three go together, and in them conſiſteth the righteouſneſs com<g ref="char:EOLhyphen"/>mended to us in the Text.</item>
+               </list>
+            </p>
+            <p>The words thus opened afford us this Doctrinal Concluſion:</p>
+            <p>Doct. <hi>When a ſinful People have been chaſtened, and are ſtill threatned, but not deſtroyed, it is time for them to ſeek Ieho<g ref="char:EOLhyphen"/>vah till he come and rain righteouſneſs upon them:</hi> that is, <hi>Till he by the efficacy of his almighty ſpirit make them a believing, ſanctified, obedient People.</hi>
+            </p>
+            <p>Zeph. 2.2, 3. Before the decree bring forth, before the day paſs as the chaffe, before the fierce anger of the Lord come upon
+<pb n="7" facs="tcp:43590:6"/>you, before the day of the Lords anger came upon you. Seek ye the Lord, ſeek righteouſneſs, ſeek meekneſs: it may be you ſhall be hid in the day of the Lords anger. <hi>Ephraim</hi> at length found this to be good counſel, <hi>Ier. 31.18.</hi> Thou haſt chaſtiſed me and I was chaſtiſed, turn thou me and <hi>I</hi> ſhall be turned; Lord thou haſt made me to know ſorrow, to ſee and taſte the bitterneſs of affliction; thou haſt taken away my health, my peace, my pleaſant things, O take away my ſin too: make me to ſee and know that it is an evil and bitter thing that I have forſaken thee. Thus the Pſalmiſt in behalf of the Church, when her ſhadow was departed, her hedges broken down, and the Boar out of the For<g ref="char:EOLhyphen"/>reſt laid her waſte, <hi>Pſal.</hi> 80. for this he beſeeched the Lord thrice, with growing importunity and earneſtneſs, like one in an agony,
+<q>
+                  <p>Turn us again, O God,</p>
+                  <bibl>
+                     <hi>ver. 4.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>Turn us again O God of Hoſts,</p>
+                  <bibl>
+                     <hi>ver. 7.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>Turn us again O Lord God of Hoſts,</p>
+                  <bibl>
+                     <hi>ver. 19.</hi>
+                  </bibl>
+               </q>
+            </p>
+            <p>
+               <hi>Daniel</hi> mentioneth it as matter of bitterneſs in the days of his ſolemn mourning, that they had failed in this, <hi>Dan. 9.13. All this evil is come upon us, yet made we not our Prayer before the Lord our God, that we might turn from our iniquities, and under<g ref="char:EOLhyphen"/>ſtand thy truth.</hi> It is a lamentable thing, for a perſon or a peo<g ref="char:EOLhyphen"/>ple to be in great affliction, and yet make little of righteouſneſs: This is that King <hi>Ahaz,</hi> 2 <hi>Chron.</hi> 28.22.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. May be taken from the great neceſſity and pre<g ref="char:EOLunhyphen"/>cious excellency of righteouſneſs:</p>
+            <p n="1">1. Its neceſſity: Righteouſneſs is the one thing neceſſary. There is no living for us without it, <hi>Prov. 10.2.</hi> Treaſures of wic<g ref="char:EOLhyphen"/>kedneſs profit nothing, but righteouſneſs delivereth from death. As <hi>Iob</hi> ſaid, we may all ſay, <hi>If</hi> I <hi>be wicked wo be to me,</hi> Job 10.15. for ſo ſaith God alſo, <hi>Iſai,</hi> 3.10.11. <hi>Say to the righteous, that it ſhall be well, but wo unto the wicked.</hi> The eyes of the Lord are upon the righteous, and his ears are open unto their cry: but the face of the Lord is againſt them that do evil, of cut off their remem<g ref="char:EOLhyphen"/>brance from the earth: <hi>Pſal. 34.15.</hi> The wicked are men of ſor<g ref="char:EOLhyphen"/>rows and death, many ſorrows ſhall be to the wicked. If there<g ref="char:EOLhyphen"/>fore we be wicked, no wonder though Blaſting and Mildew, ſick<g ref="char:EOLhyphen"/>neſs and Sword come upon us.</p>
+            <p>The worſt of miſeries belong to ſuch, <hi>Pſal. 9.17. The wicked ſhall be turned to Hell, with all the Nations that forget God.</hi> And
+<pb n="8" facs="tcp:43590:7"/>it is not parts or parentage, or riches, or worldly bravery. It is not a form of godlineſs, a name to live, or external Eccleſiaſtical priviledges that can deliver<g ref="char:punc">▪</g> Nothing but righteouſneſs will do it, If we be godly in Chriſt Jeſus; if we do rightoouſneſs and be righteous as he is righteous: this, this will ſtand us in ſtead in a dark day, <hi>Iſai. 38.3, 4 Remember now O Lord, I beſeech thee, that I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy ſight:</hi> on the other hand, what is the hope of the wicked? yet a little while and the wicked ſhall not be, thou ſhalt diligently conſider his place and it ſhall not be, <hi>Pſal. 37.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> What a neceſſity doth this Text put upon Righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+            <list>
+               <item>1. Be Righteous, or you will be nothing: <hi>yet a little while and the wicked ſhall not be.</hi> Such as take pleaſure in unrighteouſneſs drink in iniquity like water, are in their element when ſinning, live, walk, and love to live in the commiſſion of known ſin, they are wicked, <hi>2 Theſſ. 2.12. and ſuch ſhall periſh and conſume away into ſmoke,</hi> Pſal 37.20.</item>
+               <item>2. Thou ſhalt conſider his place, and it ſhall not be. O the diſtaſte with which the holy God is carried againſt the wicked. They are an abomination to him, <hi>his curſe is in their houſe,</hi> Prov. 3.33. the very place in which they live is curſed for their ſake, and in danger to be deſolate, <hi>Pſal. 107.33.</hi> When righteous <hi>Lot</hi> with his little company left <hi>Sodom,</hi> and few or none but wicked were left there, you know what followed, <hi>Gen. 19.24, 28. Then the Lord rained upon Sodom and Gomorrab Brimſtone and Fire from the Lord out of Heaven, and lo, the ſmoke of the Country went up as the ſmoke of a furnace.</hi> And if <hi>Jeruſalem</hi> will not be inſtructed unto Righteouſneſs, ſhe may expect to be deſolate, a land not inhabited, <hi>Jer. 6.8.</hi>
+               </item>
+               <item>3. A little time bringeth it to this; <hi>yet a little while and the wicked ſhall not be. The triumphing of the wicked is ſhort, and the joy of the Hypocrite for a moment,</hi> Job 20.5, 6. He ſhall flee a<g ref="char:EOLhyphen"/>way as a Dream, yet a little while, and the graceleſs, unbelieving ſinner is damned, <hi>Mark 16.16.</hi> Yet a little while and a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> having a form of Godlineſs, but denying the power of it, will in likelyhood come to nothing.</item>
+            </list>
+            <p>Moreover; <hi>Righteouſneſs is an excellent thing,</hi> Prov. 12.26. <hi>the righteous is more excellent then his neighbour.</hi> If God do per<g ref="char:EOLhyphen"/>ſwade
+<pb n="9" facs="tcp:43590:7"/>you to imbrace and receive Jeſus Chriſt offered in the Go<g ref="char:EOLhyphen"/>ſpel, to be your Lord and Saviour, <hi>Joh. 1.12.</hi> If your hearts be clean and mingled not with any known ſin, <hi>Mat. 5 8.</hi> If you choſe the way of Gods precepts, and walk in his fear, <hi>you ſhall be a Treaſure,</hi> Exod. 19.5. <hi>The excellent in the Earth,</hi> Pſal. 16.3.</p>
+            <p>But if wicked, <hi>you are little worth,</hi> Pſal. 10.20. <hi>Chaff and droſs in Gods account,</hi> and he will deal with you accordingly, <hi>Pſal. 1.4.</hi> The ungodly are not ſo: <hi>but are like the chaffe which the wind dri<g ref="char:EOLhyphen"/>veth away,</hi> Pſal. 119.119. Thou pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teſt away all the wicked of the Earth like droſs, therefore I love thy teſtimonies. Yea the wicked are fooliſh and ſimple, vile, and loathſome, <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 1.22. How long ye ſimple ones will ye love ſimplicity, and fools hate know<g ref="char:EOLhyphen"/>ledge: The fooliſh ſhall not ſtand in thy ſight, thou hateſt all work<g ref="char:EOLhyphen"/>ers of iniquity,</hi> Pſal. 4.5 <hi>a wicked man is loath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome, and cometh to ſhame,</hi> Prov. 13.5. It is well for the land when ſuch are kept down When the Righteous are in Authority the people rejoice, but when the wicked beareth rule, the people mourn, <hi>Prov. 29.2.</hi> In a word our perſons, our prayers, and all our works are by God much, or little ſet by, as we have or want righteouſneſs, <hi>Gen. 4.4, 5. God had reſpect unto Abel and unto his offering, but unto Cain and to his offering, God had no reſpect.</hi> The Author to the He<g ref="char:EOLhyphen"/>brews rendreth the reaſon of this, <hi>Heb. 11.4 Abel was righteous but Cain wicked. The ſacrifice of the wicked is an abomination to the Lord, but the prayer of the righteous is his delight.</hi>
+            </p>
+            <p>In further demonſtration of the excellency of Righteouſneſs, look upon it in that one effect mentioned, <hi>Iſai: 32: 17:</hi> And the work of Righteouſneſs ſhall be peace, and the effect of Righte<g ref="char:EOLhyphen"/>ouſneſs, quietneſs and aſſurance for ever: <hi>Great peace have they which love thy law, and nothing ſhall offend,</hi> Pſal: 119: 165: Great peace, multiplied peace:
+<list>
+                  <item>(1) Peace with God:</item>
+                  <item>(2) Peace at home, in their own boſoms:</item>
+                  <item>(3) Peace with men.</item>
+               </list>
+            </p>
+            <p n="1">1. Peace with God, <hi>Rom: 5: 1: Being juſtified by faith, we have peace with God:</hi> The righteous God loveth Righteouſneſs, his countenance doth behold the upright, <hi>Pſal: 11: 7:</hi> He and they are good friends; <hi>his ſecret is with the righteous,</hi> Prov: 3: 32: <hi>But there is no peace to the wicked, ſaith wy God:</hi> Iſai: 57: 21: <hi>He is far from them,</hi> Prov: 15: 29: and they may thank their own naughti<g ref="char:EOLhyphen"/>neſs for it; He is the very God of peace, but the ungodlineſs, and unrighteouſneſs of men kindleth his wrath, <hi>Rom: 1: 18:</hi> They
+<pb n="10" facs="tcp:43590:8"/>will not meet him in the thing that is right: And truly if <hi>Iſrael</hi> will none of him, <hi>Pſal:</hi> 8<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: 11: None of his wiſdome to guid th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lean to their own underſtandings: None of his Autho<g ref="char:EOLhyphen"/>rity to rule them, but walk in the way of their own hearts: None of his goodneſs to ſatisfie them, but go to broken ciſterns, change him for husks, carnal contentments: Slight his favour, deſpiſe his loving-kindneſs, forget him, put away the remembrance of him, ſay to him, depart from us, we deſire not the knowledge of thy name, like not to retain him in their knowledge; hate the light, hold down the truth in unrighteouſneſs; love pleaſures more than God; are ſtudious to be ſeen of men, but careleſs to be accepted of Jehovah; ſeek not his kingdome and righteouſ<g ref="char:EOLhyphen"/>neſs, but worldly things and to ſuit their ſences in the firſt place: do not love, fear and obey him as God, but in their hearts ſet up another as their chief good; rob him, break in upon his preroga<g ref="char:EOLhyphen"/>tive, profane his Sabbaths, call not upon his name, do his work negligently, not as they do their own; carry their hearts with them when they go into their ſhops; and fields; leave them be<g ref="char:EOLhyphen"/>hind them when they go to his houſe and worſhip; fight againſt him with his own goodneſs; turn the edge of his kindneſs a<g ref="char:EOLhyphen"/>gainſt him, not ſerving him with joyfulneſs and with gladneſs of heart in the abundance of all things, (but as much as in them ly<g ref="char:EOLhyphen"/>eth) make his power and providence, his boun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and care to ſerve with their iniquities; no wonder though on theſe tearms, the holy God will not be at peace with them. <hi>If thou doſt well ſhalt not thou be accepted,</hi> Gen: 4: 7: But theſe things are not well, they are not right, they are iniquity, there is no fu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſs, no equi<g ref="char:EOLhyphen"/>ty in them: Wiſdome and truth will not, cannot own them, <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c.</hi> 2: 7: <hi>O thou that art named Jacob, is the ſpirit of the Lord ſtraitened, are theſe his doings? no, no, let the wicked forſake his way, and the unrighteous his thoughts, let him turn to the Lord. Waſh you, make you clean, put away the evil of your doings, ceaſe to do evil, learn to do well, ſeek judgement and God will reaſon with you,</hi> Iſai: 1: 17, 18:</p>
+            <p>It is true, there is not a juſt man upon earth that deeth good and ſinneth not. The beſt at their beſt fall exceedingly ſhort of that love and obedience which the Law in its perfection requireth: But yet the deliberate fixed deſire and choice of their hearts; the ſettled bent of their endeavours is to be righteous,
+<pb n="11" facs="tcp:43590:8"/>
+               <hi>Pſal.</hi> 1095, 30, 80 <hi>O that my wayes were directed to keep thy ſtatutes. I have choſen the way of truth, thy judgement, have I laid before me, let my heart be ſound in thy ſtatutes,</hi> Pſal: 139: 23, 24 <hi>Search me O God, and know my heart, try me and know my thoughts and ſee if there be any wicked way in me, and lead me in the way e<g ref="char:EOLhyphen"/>verlaſting.</hi> How earneſtly doth <hi>Paul</hi> in his deſires and endeavours reach after righteouſneſs, <hi>Phil.</hi> 3; 12, 13: <hi>Not as though I were al<g ref="char:EOLhyphen"/>ready perfect, But I follow after, reaching forth unto thoſe things that a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e before.</hi>
+            </p>
+            <p>Now as a Father pittieth his childe, ſo the Lord pittieth them that fear him, owneth them weak, but knoweth they are not wicked, reckon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h them according to the better (which is alſo the riſing, prevailing) part, and will in time drive out the other, accepteth them according to what they would and can do. They having a glorious Advocate at his right hand, who maketh their welfare his buſineſs, <hi>Rom:</hi> 8: 34. Who is he that condemneth? it is Chriſt that died, yea rather, that is riſen again, who is even at the right hand of God, who alſo maketh interceſſion for us.</p>
+            <p>It is his work, he is alwayes at it, anticipating complaint<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>up<g ref="char:EOLhyphen"/>plying defects, anſwering for, and rectifying what is amiſs; ſo that as long as Jeſus liveth, the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace of the righteous ſhall live alſo, <hi>Fph:</hi> 2: 14: He IS our peace and as long as he IS their peace will be. This mon doeth the deed, <hi>Mich:</hi> 5: 5: He holdeth the Father and all the Saints together, ſo that nothing can ſepa<g ref="char:EOLhyphen"/>rate them and the love of God, <hi>Rom:</hi> 8: 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: They are compleat in him, <hi>Col.</hi> 2: 30: ſo that being conſidered on what Chriſt hath done, and will do for and in them, behold there is nothing want<g ref="char:EOLhyphen"/>ing: but they are without ſpot or wrincle or any ſuch thing, <hi>Glory to God in the Higheſt.</hi>
+            </p>
+            <p n="2">2. Peace at home, inward contentment and quietneſs: This is an other fruit of righteouſneſs, <hi>Iſai:</hi> 32: 17, 18: and the effect of righteouſneſs ſhall be quietneſs and aſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rance for ever: It is one of the woes of the wicked, to be like the troubled Sea, when it cannot reſt, <hi>Iſai</hi> 57 20 In the fulneſs of his ſufficiency to be in ſtraits, <hi>Job</hi> 20 22 So that though he knoweth not well what to deſire more, yet he is not contented. It was wicked <hi>Haman<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> complaint, when he had told his Friends of the glory of his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iches, and the multitude of his children, and all the things where, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the King had promoted him, <hi>Eſther</hi> 5 13 yet all this availeth
+<pb n="12" facs="tcp:43590:9"/>me nothing. Whereas godlineſs in the vigorous lively exerciſe of it, leadeth the ſoul home to God the fountain of goodneſs, in whom there is enough of that which is ad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quate and very ſuit<g ref="char:EOLhyphen"/>able: Hence comet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſatisfaction, as with m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrow and fatneſs. Godlineſs with contentment is great gain, 1 <hi>Tim:</hi> 6: 6. The Lord ſhall ſatisfie thy ſoul in drought, and make ſat thy bones and thou ſhalt be like a watered garden, <hi>Iſai.</hi> 58 11. <hi>But the rebel<g ref="char:EOLhyphen"/>lious dwell in a dry land,</hi> Pſal. 68.6. they fall ſhort of God in Chriſt, who is all in all, and hence in the midſt of all their Ha<g ref="char:EOLhyphen"/>vings, indeed poſſeſs nothing.</p>
+            <p>According to the method of the Goſpel, <hi>Grace prepareth the way to peace,</hi> Rom 17.1 Cor. 13. <hi>Grace be unto you, and peace.</hi> No grace no true peace; not but that wicked men (while carnal contentments flow in upon them) may like <hi>Benhadad</hi> and his complices, 1 <hi>King.</hi> 20.16 drink themſelves drunk in their tents, and ruffle awhile: But it is not peace for all that, while Conſci<g ref="char:EOLhyphen"/>ence is aſleep, they may be ſecure to their coſt: But God and an enlightned, awakened Conſcience that ſpeaketh after God, ſaith, <hi>Peace only to the Righteous.</hi> The truth is, when a wicked mans caſe is ſearched to the bottome, he will be found not to be at peace with himſelf, or on good terms with his own heart: <hi>To the wicked there is no peace,</hi> their own thoughts and hearts will fall out with them, accuſe and condemn them, in that day when God ſhall judge the ſecrets of men by Jeſus Chriſt, <hi>Rom.</hi> 2.15, 16 <hi>Surely he ſhall not feel quietneſs in his belly, terro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are upon him,</hi> Job 20 20 <hi>But mark the perfect man, and behold the upright, the end of that man is peace,</hi> Pſal 37 37 It is God that juſtifieth him, who is he that condemneth. As ſoon therefore as the tumult is over, and the righteous man can hear what God ſaith, <hi>Pſal</hi> 85 8 his heart will be quiet, and there is one anointed to preach glad<g ref="char:EOLhyphen"/>tidings to the meek, who will not fail in his truſt, in whoſe hand it is to ſpeak down all trouble, and create the fruit of the lips, peace, peace.</p>
+            <p n="3">3 Outward proſperity, peace one with another, <hi>Iſai</hi> 32 17, 18 and the work of righteouſneſs ſhall be peace, and my people ſhall dwell in a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aceable Habitation, and in ſure <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wellings, and in quiet reſting places: Unrighteouſneſs is the great trouble of Iſ<g ref="char:EOLhyphen"/>rael, and indeed the <hi>Achan</hi> of the world, 2 <hi>Chron</hi> 15 3, 4, 5 When <hi>Iſrael</hi> had forſaken the t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue God, there was no peace to
+<pb n="13" facs="tcp:43590:9"/>him that went out, nor to him that came in, but great vexations were upon all the Inhabitants of the countries, and Nation was deſtroyed of Nation, and City of City, for God did vex them with all adverſity. If God will vex a people they ſhall be vex<g ref="char:EOLhyphen"/>ed. They therefore that vex his Holy Spirit, ſhall have trouble enough. He can create darkneſs and evil for them: but if a peoples wayes pleaſe the Lord, he maketh even their enemies t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be at peace with them, <hi>Prov.</hi> 16.7.</p>
+            <p>There are two happy effects of the rain mentioned, <hi>Pſal.</hi> 69.9, 10. It ſettleth the Earth, and inricheth the land, both theſe are eminently true of this ſpiritual rain, <hi>Iſai.</hi> 33.6. and wiſdome and knowledge ſhall be the ſtability of thy times, and the fear of the Lord his treaſure. O how would a ſoaking ſhower of righte<g ref="char:EOLhyphen"/>ouſneſs ſettle our ſhaking times, repair our loſſes, and reſtore the years which the Caterpillars, the Sword, and the Mildew have ta<g ref="char:EOLhyphen"/>ken from us. This would eſtabliſh Sion, and make it a praiſe in the earth. We need not than fear our enemies, God would ſoon ſubdue them: this would alſo mend out peace one with another; Unrighteouſneſs maketh a c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Iſai.</hi> 5.7. <hi>He looked for judgement and behold oppreſſion, for righteouſneſs but behold a cry:</hi> the leſs righteouſneſs the more complaining there will be in likelihood a<g ref="char:EOLhyphen"/>mong us, and until we can obey the truth in doing right each to other, is it to be expected that contention will ceaſe, <hi>Rom.</hi> 2.8. <hi>To them that are contentious, and obey not the truth, indignation and wrath.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 2. Becauſe it is Gods prerogative to help in this caſe, <hi>Jer.</hi> 14.22. None of the gods of the Heathen can cauſe this rain, neither can the Heavens give it: <hi>Art not thou Hee O Lord our God, therefore we will wait on thee:</hi> Job 37.16. <hi>Doeſt thou know the ballancings of the Clouds, the wondrous works of him which is perfect in knowledge.</hi> Godlineſs is a great myſtery, 1 <hi>Tim.</hi> 3 18 the foundation of it is laid in hidden wiſdome, 1 <hi>Cor.</hi> 2 7. how great and coſtly a work is it to make a generation of ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nners righ<g ref="char:EOLhyphen"/>teous. It is far eaſier to call in the treaſures of the ſnow, diſ<g ref="char:EOLhyphen"/>ſolve the ice, and renew the face of the earth, then to make judgement dwell in the wilderneſs, and righteouſneſs remain in the fruitful field. The d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulties which lye in the way of it, taken from the ſtrength of the law, and divine revenging juſtice, the ſubtilty, power and rage of the Apoſtate Angels, the word?
+<pb n="14" facs="tcp:43590:10"/>leſs, ſtrengthleſs, dead eſtate in ſins and treſpaſſes, in which we all lie naturally, are even to amazement. Hence until infinite pow<g ref="char:EOLhyphen"/>er ſet a work by free grace, influenced with the merit of the pre<g ref="char:EOLhyphen"/>cious blood and obedience of the Son of God ſteppeth in, it will not be done. A maſſe of miracles meet together in it. The blind is made to ſee, the deaf to hear, the leper is cleanſed, and the dead quickened. <hi>Eph:</hi> 2.1, 2. <hi>&amp;</hi> 1: 19, 20. He that raiſed up the World out of nothing by the word of his power, muſt create it, or it will not be; you are his workmanſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p created in Chriſt Jeſus unto good works, <hi>Eph.</hi> 2.10. <hi>Iſai</hi> 45.10. It is in the day of Gods power that ſinners are made willing to turn to Jeſus Chriſt, <hi>Pſal.</hi> 110.3. and until that day cometh, <hi>Paul, Apollos</hi> and <hi>Cephas</hi> are nothing. Changes of men, and gifts avail not, <hi>Jer.</hi> 7 25. <hi>Since the day that your fathers came out of Egypt unto this day, I have ſent unto you all my ſervants, the Prophet, riſing early and ſending, yet they hearkened not unto me, nor inclined their ears.</hi>
+            </p>
+            <p n="2">2. Mercies melt not; Let favour be ſhewed to the wicked, yet will he not learn righteouſneſs: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat could have been more in this way then was done to <hi>Jeſeron,</hi> Deut 32.15. but he grew worſe under all.</p>
+            <p n="3">3. Corrections amend not <hi>Jer.</hi> 5.3. <hi>O Lord thou haſt ſmitten them but they have not grieved, thou haſt conſumed them, but they have refuſed to receive correction,</hi> Dan 9 13 all this is come upon us, but we have not made our Prayer before the Lord our God, that we might turn from our iniquities; their captivity was al<g ref="char:EOLhyphen"/>moſt ended, but the work of righteouſneſs and reformation need<g ref="char:EOLhyphen"/>ed to be begun.</p>
+            <p n="3">3. Becauſe the way which God in his wiſdome and good pleaſure hath appointed for us, to obtain his helping hand in this weighty caſe, is <hi>to ſeek him,</hi> Mat 7.7. <hi>Ask and have, ſeek and find,</hi> Zech 10.1 <hi>Ask ye of the Lord rain in the time of the latter rain, ſo the Lord ſhall make bright Clouds, and give them ſhowers of rain.</hi> But he will be enquired of by the houſe of Iſrael to do this for them, <hi>Ezek</hi> 36: 37:
+<list>
+                  <item>1 Not that God needeth to be told our indigent ſtate; no, he knoweth us quite thorow, and round about, <hi>Pſal</hi> 139.1, 2, 4.7.</item>
+                  <item>2 Or that he is ſlow to help: No, he is very pittiful, and of tender mercy, <hi>James</hi> 5.11. ready to ſave, <hi>Iſai:</hi> 38: 20.</item>
+                  <pb n="15" facs="tcp:43590:10"/>
+                  <item>3 Or that we can merit any good by our ſeeking and ſtriving, <hi>Rom:</hi> 9: 16: <hi>It is not of him that willeth, or of him that runneth, but of God that ſheweth mercy.</hi>
+                  </item>
+                  <item>4 But he is minded that we in the ſence of our own weakneſs ſhould acknowledge him in all our wayes, and be trained up in a conſtant dependance upon him, <hi>Prov:</hi> 3: 5, 6.</item>
+                  <item>5 This honour alſo he is willing to put upon man, to imploy and improve him as far as may be in working out his own welfare <hi>Phil:</hi> 2: 12, 13.</item>
+               </list>
+            </p>
+            <p>The Uſe that we ſhould make of what hath been ſaid, is to Exhort, and Perſwade us to take the counſel given in the Text, <hi>Seek we Jehovah until be come and rain righteouſneſs upon us:</hi> Till he make us a religious, godly, righteous people. That he would not only continu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but powerfully influence the means of grace, by his good ſpirit, for the turning of our hearts unto himſelf: that we may be a God-omnifying, Chriſt-admiring, Sin-hating, Self-denying, World-deſpiſing People.</p>
+            <p>That the Vine brought from far and planted here, may ſtill retain its ancient Nobility: even the ſame Spirit of Holineſs which came after God into this Wilderneſs when it was a land not ſow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. That we loſe not our firſt love, our firſt heavenly-mindedneſs, our firſt purity, our firſt peaceableneſs, humility and ſeriouſneſs; but may grow up in godlineſs and honeſty as thoſe to whom the Goſpel hath come, not in word only, but in power, and in the Holy Ghoſt, and in much aſſurance: That we may not only name the name of Jeſus, but depart from all iniquity, and converſe as becometh the Goſpel. The Lord God of our Fathers even the God of all grace ſay ſo too: Seek him, O ſeek him, that it may be thus: To perſwade to this,</p>
+            <p n="1">1 Conſider whether it be not time to ſeek him on this account; this argument is urged by the Prophet in the Text: doth not the ſeaſon ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l aloud? what think you, is it not time to ask this rain of God?</p>
+            <p n="1">(1) Is not the old generation almoſt gone? when the old ſtock is ſp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, unleſs God v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſit the Earth and water it, ſending a freſh ſupply, there is no living: what a critical day was it with <hi>Iſrael</hi> of old, when <hi>Joſhua</hi> and the Elders that out-lived <hi>Ioſhua</hi> and all that Generation, which had ſeen all the great works of the Lord, were gathered unto their Fathers, <hi>Iudges</hi> 2.7, 10: and
+<pb n="16" facs="tcp:43590:11"/>
+               <hi>[This rain failing]</hi> there aroſe another generation that knew not Jehovah, and then how ſoon did their proſperity and welfare ſail alſo. They did evil in the ſight of the Lord, and they forſook the Lord God of their Fathers, and the anger of the Lord was hot againſt <hi>Iſrael,</hi> Mich. 7.1. <hi>Wo is me, for I am a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when they have gathered the Summer fruits, as the grape gleanings of the vintage, there is no cluſter, the good man is periſhed:</hi> Time was, that good men grew in this land by cluſters, but now how thin: <hi>Lord viſit the Earth, and water it.</hi>
+            </p>
+            <p n="2">2. Doth not our <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d mourn for the want of this? how long ſhall the land mourn, and the herbs of every field wither for the wickedneſs of them that dwell therein, <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> 12.2. How long ſhall we be ſmitten with Sickneſs, Drought, Caterpillars, Blaſting and Sword. How many Villages are already forſaken of their Inha<g ref="char:EOLhyphen"/>bitants, their High wayes unoccupied? how many choſen young men are fallen upon the high places of the field? how many Wi<g ref="char:EOLhyphen"/>dows left ſolitary among us, with their tears on their cheeks? how many mothers in <hi>Iſrael,</hi> weeping for their children, and refuſe to be comforted? becauſe they are not: ſhall the ſword devour for ever, ſhall it not ſuffice? Is it not time therefore to ſeek righte<g ref="char:EOLhyphen"/>ouſneſs, that deſolation and ſpoil may come to an end.</p>
+            <p n="3">3. Hath not a great deal of coſt and precious pains been laid cut upon us, that we might (if p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſible) be righteous? When the principal Wheat is caſt into the Earth, and Seed-time over, Rain will ſoon be needed, and if it come not, the Husband-man looketh out earneſtly; for alas, all is gone if God ſend not rain. We have been inſtantly preached to for a long time: eminent fa<g ref="char:EOLhyphen"/>vour alſo bath been ſhewed us; what a long day of bounty and patience have we enjoyed. At ſundry times alſo, and in divers manners we have been afflicted, eſpecially in later years: now ſhall all this be in vain? truly, if there come no rain, if God ſend not his ſpirit to water, word and Providences all will be loſt. And if we be preached to, but without profit, favoured but not taught righteouſneſs, chaſtened but not amended, what ſhall we do in the end thereof?</p>
+            <p>If a man ſetteth at a high Rent, and hath no increaſe, but his crop faileth him year after year, be breaketh at the laſt: truly un<g ref="char:EOLhyphen"/>leſs the rain cometh, and righteouſneſs ſpringeth up in the wilder<g ref="char:EOLhyphen"/>neſs, conſidering at what a Rent we ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, we cannot expect to hold it long: to be barren under ſo much bounty, undutiful notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb n="17" facs="tcp:43590:11"/>ſo many corrections and fatherly chaſtiſem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts: To have ſo many Sabbaths, Counſels, Inſtructions, Warnings, the la<g ref="char:EOLhyphen"/>bour and lives of ſo many of Gods p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecious ſervants to anſwer for, will ſurely ſink us at laſt, <hi>Iſai. 5 4, 5. therefore wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n I looked that in ſhould bring forth grapes, brought it forth wild grapes, and now go to, I will tell you what I will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o my Vineyard, I will take away the Hedges thereof, and it ſhall be eaten up?</hi>
+            </p>
+            <p n="2">2. Conſider your ſelves who you are, and of what conſequence it is, that <hi>righteouſneſs be rained down on you;</hi>]</p>
+            <p>Have you not <hi>Abraham</hi> to you Father? are you not the off<g ref="char:EOLhyphen"/>ſpring of the righteous, and will you degenerate into a ſtrange plant? dare you continue wicked? will you not be like your Fa<g ref="char:EOLhyphen"/>thers? It is noted of <hi>Nabal,</hi> 1 Sam 25.3. that he was churliſh, and evil in his doings, and he was of the houſe of <hi>Calth.</hi> Alas, alas; of the houſe of <hi>Caleb;</hi> he was a man of an other, of an ex<g ref="char:EOLhyphen"/>cellent ſpirit; what a fool and of the houſe of <hi>Caleb;</hi> a ſon of Belial and of the houſe of <hi>Caleb;</hi> Oh that ſuch a branch ſhould ſpring out of ſuch a Stock: Shall the faithful City become an Harlot, it was full of judgement, righteouſneſs lodged in it, now Murtherers, <hi>Iſai. 21.</hi>
+            </p>
+            <p>It was an aggravation of their ſin, <hi>Iudg. 2.17.</hi> that they turned quickly out of the way which their fathers walked in, obeying the commandments of the Lord; but they did not SO; your Fa<g ref="char:EOLhyphen"/>thers were a humble, holy, obedient people, and will not you be SO: your Fathers did Juſtice and Judgement, and will not you do SO: Your Fathers walked with God, kept their ſeaſons of reti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ment to their cloſe's, to pray and ſeek God, do you do SO? your Fathers called the Sabbath honourable, the Holy of the Lord, and were conſcientiouſly careful not to do their own wayes, nor finde their own pleaſure, not ſpeak their own words,: are you for any manner of talk when the Sabbath is come? do you ſay, what a wearineſs is it? and account it the burthen of the Lord of Hoſt, did your Fathers do SO? were the Sabbaths wonted to be ſpent in the houſes where you dwell as you ſpend them? ſhall the holy example of thoſe that have beaten the way to Sion before you, be of no account in your eyes, in a Land of uprightneſs; will you deal unjuſtly and not behold the Majeſty of the Lord, <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i. 26: 10:</hi> Verily, we had need to ſeek the Lord till he come and rain righteouſneſs on us, That when he ſhall look into our houſes, he
+<pb n="18" facs="tcp:43590:12"/>may not ſay, what have I here? <hi>Iſai. 52.5.</hi> Is this the houſe of ſuch a precious godly man? are theſe his children? is this the Nation that I gathered out of the midſt of a Nation, with a mighty hand, and a ſtretched out arm? Is this the people for whoſe ſake I rebuked the Heathen, ſaying, (when they were few in number, and ſtrangers in the land) <hi>Touch not mine Anointed, do my Prophets no harm.</hi> Were they a proud, idle, intemperate, unmerciful Generation of men, were not their faces ſet for Hea<g ref="char:EOLhyphen"/>ven, their language the language of <hi>Canaan?</hi> was not holineſs to the Lord written on their wayes? and will you be worldly and prophane, drink and ſwear, riot and be wanton, deride Religion; ſcoffe at the wayes or ſervants of God: O take heed, take heed, leſt the names you bear, the houſes you dwell in, the eſtates you inherit, the places you ſuſtain, riſe up in judgement againſt you, and increaſe your condemnation at the laſt.</p>
+            <p>Believe it ſirs; tis a dangerous, a very dangerous thing to for<g ref="char:EOLhyphen"/>ſake the wayes of truth and holineſs, when ſweetned, and in a manner naturallized, by the practiſe and example of godly Pa<g ref="char:EOLhyphen"/>tents, <hi>2 Chron. 21.12 and there Came a writing to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehoram from Elijah the Prophet,</hi> ſaying, <hi>Thus ſaith the Lord God of David thy Father, becauſe thou haſt not walked in the wayes of Jeboſaphat thy Father, nor in the wayes of Aſa King of Judah, &amp;c. Behold with a great Plague will the Lord ſmite thy People, and thy Children, and thy Wives, and all thy Goods; and thou ſhalt have great ſickneſs by diſeaſe of thy bowels, until thy bowels fall out, by reaſon of the ſickneſs day by day.</hi>
+            </p>
+            <p n="3">3. If God rain not righteouſneſs on you, it may be expected that he will rain ſomething elſe: Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k this gentle rain, that the ſtorm of his wrath fall not on you, <hi>Pſal. 11. <g ref="char:V">Ʋ</g>pon the wicked be ſhall rain Snares, Fire, Brimſione, and an horrible tempeſt,</hi> this ſhall be the portion of their cup.</p>
+            <p n="4">4. Weigh the advantage that cometh by righteouſneſs, that is much every way; <hi>Godlineſs is profitable for all,</hi> 1 Tim 4.8. <hi>having the promiſes of this life, and that which is to come:</hi> it will ſtand you inſtead while you live, when you dye, and to eternity.</p>
+            <list>
+               <item>(1.) While you liv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Mat 6.33. Firſt ſeek the Kingdome of God, and his righteouſneſs and all theſe things ſhall be added:</hi> If God give you righteouſneſs he will give you all, <hi>Rom. 8 32. Pſal. 37.27. Depart from evil and do good, and dwell for evermore,</hi> i. e.
+<pb n="19" facs="tcp:43590:12"/>live as long as life is good, God doth not grudge, but delight in the proſperity of the righteous, <hi>Pſal. 35.27.</hi>
+               </item>
+               <item>(2.) When ye dye; <hi>the ſting of death is ſia,</hi> when that is out there is no danger. Hence Righteouſneſs delivereth from death, the death of the righteous is ſcarce worthy the name of Death, <hi>Pſal. 22.26.</hi> they ſhall praiſe the Lord that ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k him, your heart ſhall live for ever. Death (though a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enemy to nature) ſhall thorough grace in Jeſus Chriſt do them no harm, but further their good and welfare, lifting them home to their Fathers houſe, <hi>where there is fulneſs of joy and pleaſure for evermore,</hi> Rev. 14 13. <hi>Bleſſed are the dead which dy in the Lord, that they may reſt from their labours and their work<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> follow them.</hi>
+               </item>
+               <item>(3.) Righteouſneſs is profitable to eternity, <hi>Mat. 25.46. Theſe ſhall go into everlaſting puniſhmen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, but the righteo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> into life eternal:</hi> God will never a done ſhewing kindneſs to the godly man.</item>
+            </list>
+            <p>How many are the good wayes and the comfortable words which he hath ſpoken concerning ſuch.</p>
+            <list>
+               <item>1. He loveth them dearly, and that the world ſhall know be<g ref="char:EOLhyphen"/>fore all be done, <hi>Ioh. 17.23. That the world may know that thou haſt loved them as thou hast loved me:</hi> he loveth to ſee their faces and hear their voice, <hi>Cant. 2.14.</hi> when he ſpeaketh of righteous. <hi>Noah,</hi> how doth he repeat his Name over and over, as if it were ſweet to him, and he loved to have it in his mouth, <hi>Gen. 6.8, 9. Noah was a juſt man and perfect in his generation, and Noah wal<g ref="char:EOLhyphen"/>ked with God, and Noah, &amp;c.</hi> why might not once naming of <hi>Noah</hi> have ſerved thorough that ſhort diſcourſe, but to declare that his name is ſweet. <hi>Noah, Noah,</hi> O <hi>Noah,</hi> I love <hi>Noah, Noah</hi> is a godly man, a good, holy man: God hath ſet apart him that is godly for himſelf, <hi>Pſal. 4.3.</hi> when he mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th up his Jewels men ſhall return and ſee a difference, <hi>Mal. 3.17, 18.</hi>
+               </item>
+               <item>2. God will bleſs them greatly, <hi>Pſal. 5.12 For thou Lord wilt bleſs the righteous with favour, wilt thou compaſs him as with a ſhield.</hi>
+               </item>
+            </list>
+            <list>
+               <item>1. He will take care of their perſons, <hi>Pſal. 121.7, 8. The Lord ſhall preſerve thee from all evil, he ſhall preſerve thy ſoul, the Lord ſhall preſerve thy going ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and thy coming in, from this time forth and even for evermore.</hi>
+               </item>
+               <item>2. He will bleſs their ſubſtance: <hi>The curſe of the Lord is in the
+<pb n="20" facs="tcp:43590:13"/>houſe of the wicked, but he bleſſeth the habitation of the juſt,</hi> Prov. 3.33. <hi>A little that a righteous man hath is better then the riches of many wicked,</hi> Pſal. 37.16.</item>
+               <item>3. He will not forget their names, <hi>Pſal. 112.6. The righteous ſhall be had in everlaſting remembrance.</hi>
+               </item>
+               <item>4. He will ſhow kindneſs to their relations alſo, <hi>Pſal. 128.2, 3, 4. Bleſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d is every one that feareth the Lord, it ſhall be well with the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, thy wife ſhall be as a fruitful nine, thy children like olive plants: the ſeed of the righteous ſhall be delivered,</hi> Prov. 11.21. <hi>The mercy of the Lord is from everlaſting to everlaſting, upon them that f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a him, and his righteouſneſs unto childrens children.</hi>
+               </item>
+               <item>5. He will ſhine on their endeavours, <hi>Pſal. 1.3. All that be doth ſhall proſper,</hi> but one ſinner deſtroyed much good: wicked <hi>Abah</hi> having a ſhare in <hi>Ichoſaphats</hi> ſhips ſpoiled the voyage, <hi>1 King 22 48, 49.</hi>
+               </item>
+               <item>6. He will make them bleſſings, <hi>Gen. 12.2. I will bleſs thee and thou ſhalt he a bleſſing.</hi> If you be righteous many ſhall be the better for you: your counſel, your company, you example will now be all precious; your tongues ſhall be as choice ſilver, and your lips feed many, <hi>Prov. 10.20, 21.</hi> your prayers will avail very much, <hi>Iam. 5.16.</hi> your fellowſhip will now be deſirable; a godly man is a companion for a Prince. <hi>Pſal. 119.63. I am</hi> (ſaith King <hi>David</hi>) <hi>a companion of all them that fear thee, and of them that keep thy precepts,</hi> and good reaſon, <hi>for their fellowſhip is with the Father and the Son,</hi> 1 Joh. 1.3. <hi>He withdraweth not his eyes from the righteous, but with Kings are they on the throne,</hi> Job 36.7. moreover righteouſneſs will advantage you for places and imployment of truſt, <hi>Neh 7.2. I gave my Brother Hanani charge over Ieruſalem, for be was a faithful man, and feared God above many.</hi> The integrity of <hi>Davids</hi> heart did greatly meliorate the skilfulneſs of his band, and was the main thing in Gods eye, when he took him from the ſheep-folds to be King in <hi>Iſrael,</hi> 1 Sam 16 7. In a word, the only true foundation of univerſal bleſ<g ref="char:EOLhyphen"/>ſedneſs is laid in righteouſneſs, <hi>Prov. 10.25. As the whirl. wind paſſeth, ſo is the wicked no more, but the righteous is an everlaſting foundation.</hi>
+               </item>
+            </list>
+            <p n="5">5 Conſider the ſweet and inviting terms on which God ſtandeth with us in this matter, <hi>Mat. 7.7. Ask and have,</hi> Jam 1.5. <hi>If any man lack w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſdom, l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t him ask it of God, who giveth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all, to</hi>
+               <pb n="21" facs="tcp:43590:13"/>to all, and it ſhall be given him, <hi>Luk. 11 13. How much more ſhall your heavenly Father give his Holy Spirit to thoſe that ask.</hi>
+            </p>
+            <p>Queſt. <hi>But how may we ſo ſeek God as to find him, and a ſupply of righteouſneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from him?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Seek him heartily and ſincerely, <hi>Iſai. 26 9. With my ſoul have</hi> I <hi>deſired thee in the night ſeaſon, with my ſpirit with<g ref="char:EOLhyphen"/>in me will</hi> I <hi>ſeek thee,</hi> Jer: 29.3. <hi>And ye ſhall ſeek me and find me, when you ſhall ſearch for me withal your heart.</hi> God will not be mocked in any caſe, much leſs in this which is of ſuch high im<g ref="char:EOLhyphen"/>portance. It was <hi>Iſraels</hi> folly of old, <hi>Pſal. 78.36.37.</hi> when he ſlew them thou they ſought him, they enquired early after God, nevertheleſs they did flatter him with their mouth: they lyed unto him with their tongues: take we heed leaſt we fail here. It is time to make righteouſneſs our deſign, to Preach for this, Pray for this, Hear for this ſincerely, heartily; leaſt while in ſhew we ſeek <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his, but with our hearts go after other things, we loſe this and other things too, <hi>Mat. 6.33. Bleſſed are thoſe that hunger and thirſt after righteouſneſi:</hi> for ſuch will be beyond complement, and ſeek in truth.</p>
+            <p n="2">2. Seek ſeaſonably, early, ſpeedily, <hi>2 Cor: 6: 2: Behold now is the accepted time, behold now is the day of ſalvation; to day if you will hear his voice harden not your hearts.</hi> Loſe not you day, while God calleth, while his ſpirit moveth, while life la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teth, while you have liberty, means, helps and advantages about you, before the decree come forth, ſeek righteouſneſs leaſt the Clou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s return after rain; leaſt your Sabbaths be again turned into dayes of labour, and weatineſs, hazard and hardſhip: leſt inſtead of the voice of the Turtle, you have the noiſe of War, leaſt you come too late to be accepted, <hi>Numb. 14:6, 7.</hi> The Spirit of God ſtrove earneſtly by <hi>Ioſhua</hi> and <hi>Caleb,</hi> to perſwade <hi>Iſrael</hi> to go for<g ref="char:EOLhyphen"/>ward, but in vain, for In their frowardneſs and fit, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et up their ſpirits, and would not hearken.</p>
+            <p>Wherefore in the 28: and 29: verſes, God giveth forth bis de<g ref="char:EOLhyphen"/>cree, <hi>As truly as</hi> I <hi>live,</hi> ſaith the Lord, <hi>as ye have ſpoken in mine ears, ſo will</hi> I <hi>do to you, your carkaſes ſhall fall in the wilderneſs:</hi> after this they changed their mind, <hi>ver:</hi> 39, 40: <hi>The People mourned greatly, and they roſe up early in the morning, and gat them up into the top of the mountain,</hi> ſaying, <hi>Lo we be here,, and we will go up unto the place which the Lord hath promiſed:</hi> but their motion
+<pb n="22" facs="tcp:43590:14"/>take not. Though they roſe early, though they mourned, and went up to the mountain.</p>
+            <p>Obj. <hi>But hath not God ſaid that thoſe that ſeek him early ſhall find him,</hi> Prov. 8.17.</p>
+            <p>
+               <hi>A.</hi> True: but mans early is many times Gods late, <hi>Prov.</hi> 1.28 <hi>Becauſe I have called, and ye refuſed, I have ſtretched out my band and no man regarded, but ye have ſet at nought all my counſel, and would none of my reproof: I alſo will laugh at your calamity, they ſhall ſeek me early but they ſhall not find me.</hi>
+            </p>
+            <p n="3">3. Seek him earneſtly: Seek firſt the kingdome of God and his righteouſneſs, with that intention and height of deſires, which becometh the worth, excellency and neceſſity of the thing ſought. Righteouſneſs is the principal thing life is in it: win it and you win all, miſs it and all is loſt; O therefore ſeek importunately, not only with your hearts ſincerely, but with al your hearts ſtrong<g ref="char:EOLhyphen"/>ly. Warm your ſpirits with the conſideration forementioned, reallize them, mix them with faith, meditate much on them, that you may be ſuitably raiſed in your deſires and endeavours after righteouſneſs.</p>
+            <p n="4">4. Seek him humbly, with a heart broken down and abaſed in the ſence of ſin and miſery, weakneſs and unworthineſs. The ſacrifices of God are a broken ſpirit, <hi>a broken and a contrite heart he will not deſpiſe,</hi> Pſal. 51.17. <hi>He forgetteth not the cry of the humble,</hi> Pſal. 9.12. but until our fallow ground be broken up, it will not be Gods time, to come and rain righteouſneſs upon us. It behoveth us therefore, to remember the Wormwood and the Gall, and to have our ſouls humbled within us: to ſit alone and put out mouths in the duſt, if there may be hope for us, accept<g ref="char:EOLhyphen"/>ing the puniſhment of our iniquity: for our deſtruction is of our ſelves, our own ſword hath devoured our children: we have procured theſe things unto our ſelves: but our help is not in our own hand. Be it that eternal ſalvation, the welfare of our whole man, the preſervation of the land, our lives, our little one<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, our peace, our liberty, all good depend upon our unfained <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urning to God in Chriſt, and being righteous; yet this is wholly beyond our power, we have no might for it, <hi>Turn thou me,</hi> Jer. 31.18. herein appeareth the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etchedneſs of a natural man. Should God paſs by all former provocations, and ſay to him, do but this one thing and all ſhall be well, love the fountain of good<g ref="char:EOLhyphen"/>neſs,
+<pb n="23" facs="tcp:43590:14"/>who is alſo thy life: although nothing can be more rational then this, yet he is unto nothing more impotent and averſe, <hi>Rom.</hi> 8.7. <hi>The carnal mind is enmity unto God, is not ſubject nor can it be.</hi>
+            </p>
+            <p>Moreover we cannot deſerve that God ſhould turn us, we are ungodly and enemies as well as without ſtrength, <hi>Rom.</hi> 5.6, 10. If therefore after many other judgements which have come upon us for our ſins, God ſhould now give us up to a blind mind, and a hard heart, fill us with our own devices, leave us to a reprobate ſence, make the heavens over us to be braſs, command the clouds that they rain not on us, withhold his free ſpirit, ſend a dry wind not to fan, nor to purge, but to blaſt all means, making his word and ordinances, changes of mercy and affliction to be a ſavour of death unto death. He would be righteou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, tis true, without righteouſneſs we periſh. It is as true that nothing but infinite grace, working without, yea againſt deſerts of ours can make us righteous. When therefore we pray for righteouſneſs, we may well take <hi>Davids</hi> words, <hi>Pſal.</hi> 9 1. <hi>Have mercy upon us O God of our righteouſneſs, and hear our prayer.</hi>
+            </p>
+            <p n="5">5. Seek him believingly, with a holy dependance upon the mercy, power, truth and faithfulneſs of God in Jeſus Chriſt. Re<g ref="char:EOLhyphen"/>member <hi>James</hi> His BUT, <hi>Jam.</hi> 1.6. <hi>But let him ask in Faith.</hi>
+            </p>
+            <list>
+               <item>(1.) Our ſins are indeed many, and our iniquities very great but there is merit enough in the blood of Jeſus to redeem them from all, 1 <hi>Joh.</hi> 1.7.</item>
+               <item>(2.) Though all means are of themſelves, weak, and utter<g ref="char:EOLhyphen"/>ly inſufficient to ſubdue our corrupt and rebellious wills, yet with the Lord Jehovah there is everlaſting ſtrength; if he will he can convince, enlighten, humble, perſwade, ſanctifie, quicken and enlarge uncontroleably, when he will work none can let. It is nothing with him to ſave, 2 <hi>Chron.</hi> 14.11.</item>
+               <item>(3) You have the countenance of Gods command to encou<g ref="char:EOLhyphen"/>rage in going to him for righteouſneſs: ſo the Text before us: thus <hi>Zeph.</hi> 2.2. <hi>Seek righteouſneſs, Mat.</hi> 6.33. now let us improve this word, not only to awe conſcience, but to ſtrengthen and an<g ref="char:EOLhyphen"/>nimate faith, <hi>Mark</hi> 10.49. <hi>Be of good comfort, ariſe, he ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eth thee.</hi>
+               </item>
+               <item>(4.) You have the ſhadow of the promiſe to ſit in and wait <hi>Luk</hi> 11 13. how much more will he give his Spirit to them that a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k him.</item>
+               <pb n="24" facs="tcp:43590:15"/>
+               <item>(5.) Conſider the example of poor needy ſinners that have gone before you: what happy welcome found <hi>Ephraim,</hi> Jer. 31 19 ſurely I have heard <hi>Ephraim</hi> bemoaning himſelf thus, <hi>Thou haſt chaſtiſed me and I was chaſtiſed, turn thou me and I ſhall be turned,</hi> is <hi>Ephraim</hi> my dear childe? It is unto God a moſt accep<g ref="char:EOLhyphen"/>table requeſt, to ask of him the rain of righteouſneſs: He had rather we ſhould ſeek him for the meat which endureth to eter<g ref="char:EOLhyphen"/>nal life than for that which periſheth.</item>
+            </list>
+            <p>
+               <hi>Let it be to him for a name and a praiſe for ever.</hi> Oh the depth of the riches of the wiſdome and love of God, who knowing our frame, and how eager we are, in our purſuit of inferiour things, maketh a bait of them, wherewith to draw us to him for ſuch as are infinitely better, <hi>even his Kingdome and Righteouſneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Mat.</hi> 6.33.</p>
+            <p n="6">6. Seek him unanimouſly: The ſtreſs lieth here, therefore lift together. We in <hi>New-England</hi> are a poor and an afflicted people: It is not for us to rejoice with other Nations in our num<g ref="char:EOLhyphen"/>ber or our ſtrength; but that mattereth not, if God be with us we ſhall do well enough, notwithſtanding our poverty, our little<g ref="char:EOLhyphen"/>neſs, and mean outward eſtate. Paſt experience proclaimeth it, that our hazard lieth not in theſe things. If the mun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of Rocks be our defence we are ſafe: Can we deſire greater ſerenity peace, and ſafety, then we have injoyed in years paſt. <hi>Jeko<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> arm is not ſhortened, there is no ſhadow of turning with him. If we be righteous he will love us, and we ſhall dwell ſafely by his ſide. If any thing undoe us it will be ſin, our unrighteouſneſs our want of the fear of God, our want of love to Jeſus Chriſt, our forſaking the fountain of living waters, our undutiful and provoking carringe to the Angel that leadeth us by the way: but if righteouſneſs be rained on us all will be well. It is enough, O therefore let every one put in for that with all the ſtrength he can make.</p>
+            <p n="1">1. Fathers, Ancient Chriſtians, yee have been at the begin<g ref="char:EOLhyphen"/>ning of the work of God in this Country, and you are greatly concerned in the progreſs of it: loſe not the things ye have wrought, for which ye have prayed, and wept, and travel'ed, and ventured ſo much: you have in ſome meaſure experienced the worth of Righteouſneſs, labour as for life that it may live when you are dead: your Glaſs is even out, you are almoſt at home,
+<pb n="25" facs="tcp:43590:15"/>ſtrengthen the feeble knees, brighten your example, ſhine in the fear of God, let not your ſun go down in a cloud, your prayers avail very much, O ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ak yet again unto God for this poor land in which you ſo journe, leaſt he bring evil upon it by ſlaying your Sons.</p>
+            <p n="2">2. Young men, ye are ſtrong, let not ſin overcome you; conſi<g ref="char:EOLhyphen"/>der the price that is in your hands; Religion priviledged as ſome<g ref="char:EOLhyphen"/>times it hath been, and thorough grace ſtill is in this Land, is a coſtly Legacy, take heed you do not forfeit it: let not the fear of God dye as long as you live: ſhall it be ſaid in time to come, that godlineſs dwelt in the land until you aroſe, but then failed: ſhall this ruine be under your hand; <hi>O ſeek the Lord till be come and rain righteouſneſs on you.</hi>
+            </p>
+            <p n="3">3. Ye Maſters of Families, will not you and your houſes ſerve the Lord? ſurely it is time for you to ſeek him alſo: The fcun<g ref="char:EOLhyphen"/>dation of all ſocieties is laid in families; you therefore who are Leaders in them, and have the firſt ſeaſoning of young ones had need look to your ſelves. If the Foundations be deſtroyed, what can the righteous do? If the Springs be corrupt what will the Streams be: conſider the grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt which God hath committed to you, and command your children and Houſhold after you to keep the way of the Lord, to do juſtice and judgement, that the Lord may bring upon them that which he hath ſpoken of the righteous: ſee that your example be good, that thoſe who come after you, and tread in your ſteps may walk ſafely. Let not your vain converſation be a ſtumbling-block in the way to Heaven, leaſt your children riſe up and call you curſed at the laſt, for the ir<g ref="char:EOLhyphen"/>religion and prophaneſs which you have taught them.</p>
+            <p n="4">4. Ye houſe of <hi>Aaron,</hi> this matter belongeth in a ſpecial man<g ref="char:EOLhyphen"/>ner unto you; Ye are the Lords Miniſters, O weep betwixt the Porch and the Altar, and ſay, <hi>Rain down Righteouſneſs on thy People Lord; and give not thine Heritage to reproach; wherefore ſhould the Heathen ſay, where is their God?</hi>
+            </p>
+            <p>It is your Office to teach <hi>Jacob</hi> Gods Judgements, and <hi>Iſrael</hi> his Law: Take beed therefore to the Miniſtry which ye have re<g ref="char:EOLhyphen"/>ceived in the Lord that ye fulfil it. Preach Righteouſneſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o your Congregations, plainly declare and powerfully p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs that Grace of God which bringeth Salvation: Make it your work to watch for Souls, as thoſe that muſt give an account:
+<pb n="26" facs="tcp:43590:16"/>Be inſtant in ſeaſon and out of ſeaſon, reprove, rebuke, exhort, with all long-ſuffering and doctrine. Soke your Sermons in prayer, print them in your practiſe and converſation. Follow the example of the Baptiſt, who was <hi>the voice of one crying in the wilderneſs,</hi> Joh. 1.23. (all voice) his word and his works, his language and his life ſpake this, <hi>make ſtrait the way of the Lord, go ye, and do likewiſe.</hi>
+            </p>
+            <p n="5">5. Ye alſo who are Judges in the Land, the Lord make you higher then the reſt of the people from the ſhoulders and upward in wiſdome and holineſs: the Lord give you an open mouth for righteouſneſs, <hi>Prov.</hi> 31.8, 9. Let your eyes be upon the righteous in the Land to encourage them, promote Religion, bear up a<g ref="char:EOLhyphen"/>gainſt ſin, ſuppreſs iniquity; put life into your wholſome Laws by vigorour execution; thus do in the fear of the Lord faithfully, and with a perfect heart. Be it that the Battel is againſt you before and behind, yet be of good courage and play the men for your people, and for the Cities of our God, and the Lord do what ſeemeth him good.</p>
+            <p n="7">7. Seek him perſeveringly, minde the language of the Text <hi>Seek the Lord (until) be come;</hi> then ſhall we know if ye follow on to know the Lord, <hi>Hoſ.</hi> 6.2. pray alwayes with this prayer, and do not faint, <hi>Luk.</hi> 18.1. ye therefore which make mention of the name of the Lord, give him no reſt till he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> down righ<g ref="char:EOLhyphen"/>teouſneſs on the land.</p>
+            <p>To Conclude, Seek God by all means, in all his own wayes:
+<list>
+                  <item>1. Maintain a high eſteem of the Word and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdinances of God: wo be to you if your ſouls loathe the Manna, or call it a light food</item>
+                  <item>2 Take heed you be not overcharged with the love of the world, and the cares of this life, theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k the Word. Be cloathed with the Sun, and let the Moon be under your feet.</item>
+                  <item>3. Study the method of converſion held forth in the Word and fall in with the good ſpirit of God breathing in the ſame, to the wonderment of men and Angels, life and immortality are come to light, thorough the Goſpel. There is a ſure way to ſave ſinners opened thorough Jeſus Chriſt: admire it, ſtudy it, labour to know it: ſet your hearts to it, and follow it: let wiſdome en<g ref="char:EOLhyphen"/>ter, and underſtanding be pleaſant: love the light, but on a hum<g ref="char:EOLhyphen"/>ble teachable frame of ſpirit, entertain conviction kindly: Be
+<pb n="27" facs="tcp:43590:16"/>content to know the worſt of ſin, look upon it in that peculiar, direct oppoſition in which it ſtandeth to the wiſdome and good<g ref="char:EOLhyphen"/>neſs, authority and holineſs of God in the command: ſee it in its ſad effects; the end of theſe things is death. Behold it thorough the bloody glaſs of Chriſts ſufferings; look on it from a death-bed, and as it will look on you at the laſt. Give that ho<g ref="char:EOLhyphen"/>nour to God, to believe that he hath good reaſon for all that he hath ſaid againſt ſin in his word, concluding that at length ſin will prove to be as he hath ſpoken, and if God and you can be of one mind about ſin, the great difficulty is over Fall in love with Jeſus Chriſt, let him have a name in your hearts above every name that is named in this world or that which is to come, <hi>Cant.</hi> 5.10, 16. Hate all the pleaſures of ſin, let all external priviledges, perſonal performances, and worldly imployments, be dung and droſs in compariſon of winning him, and being found of God in him. Do duty with conſcien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ious care and diligence, but ſay not to the works of your own hands, <hi>Ye are our Gods.</hi> Go not about to eſtabliſh a righteouſneſs of your own, but ſubmit your ſelves to the righteouſneſs of God. <hi>Abraham</hi> found by experi<g ref="char:EOLhyphen"/>ence that the Hand-maid taken into <hi>Sarahs</hi> place brought with her great v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xation, inſomuch that at length he was put upon it to caſt her and her Son quite out of doors.</item>
+               </list>
+            </p>
+            <p>But leaſt I be tedious let me ſhut up all with this word:</p>
+            <p>Be not diſcouraged: <hi>To the Lord belongeth righteouſneſs and ſalvation, although to us confuſion of face.</hi> The reſidue of the spirit is with him, who knoweth but he may return and make his work appear to his ſervants, and his glory to their children? <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> was greatly fallen, <hi>Iſai.</hi> 1.21. when of a faithful City ſhe was become a Harlot, and from being full of righteouſneſs and judgement to be full of Murtherers: But God lifted her up a<g ref="char:EOLhyphen"/>gain, <hi>Jer.</hi> 31.23. <hi>Thus ſaith the Lord of Hoſts, the God of Iſrael, as yet they ſhall uſe this ſpeech in the land of Judah, and in the Cities thereof, The Lord bleſs thee O habitation of juſtice, and mountain of holineſs.</hi> He can ſtrengthen the things that remain, which are ready to dye.</p>
+            <p>There was a time mentioned, <hi>Mark</hi> 9.14, 15. in which Chriſt being withdrawn to the mount, his Diſciples were hard put to it below. The poor man brought to them his Son which had a dumb Spirit, but they could not caſt him out, at length Jeſus
+<pb n="28" facs="tcp:43590:17"/>came down, took to himſelf his mighty power, rebuked the fool Spirit, healed the Child<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comforted the Father, and ſent the multitude away am<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and wond<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing at all the things which he did. Truly we have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time wherein to experience the naugh<g ref="char:EOLhyphen"/>tineſs of our own hea<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> how bent we are to backſlide and go off from God, as alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akeneſs and utter inſufficiency of all means in themſelves <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dered to keep vs with God, or reduce us to him when tur<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. But it may be Chriſt will ſhortly. come down, and then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mended, <hi>Jer.</hi> 17: 14. <hi>Save as O Lord and we ſhall be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, heal us and we ſhall be healed, for thou art our praiſe.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er us ſeek him therefore till he come, for he loveth Righteouſneſs; and hath not forſaken them that ſeek him.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43590:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
